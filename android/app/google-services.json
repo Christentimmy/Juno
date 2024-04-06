@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "944656268514",
+    "project_id": "juno-project-95bf3",
+    "storage_bucket": "juno-project-95bf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944656268514:android:7c05e6e7f3b956b5e8b2bb",
+        "android_client_info": {
+          "package_name": "com.example.juno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944656268514-o9cbu5to9iarfj0chud09q8l9h630pbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.juno",
+            "certificate_hash": "cce3e3a10465576a8cbce54350173a201fefd9ce"
+          }
+        },
+        {
+          "client_id": "944656268514-l6cd5e35abc2b291espuh07l4fl4fvck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhN-nVgmMYDNHjO_Y0S9daurq45_DaPRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944656268514-l6cd5e35abc2b291espuh07l4fl4fvck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
